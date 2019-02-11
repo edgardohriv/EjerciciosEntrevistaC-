@@ -1,0 +1,6 @@
+I:\PROYECTOSC#\propelic_test\exercises\exercises\bin\Debug\exercises.exe.config
+I:\PROYECTOSC#\propelic_test\exercises\exercises\bin\Debug\exercises.exe
+I:\PROYECTOSC#\propelic_test\exercises\exercises\bin\Debug\exercises.pdb
+I:\PROYECTOSC#\propelic_test\exercises\exercises\obj\Debug\exercises.csproj.CoreCompileInputs.cache
+I:\PROYECTOSC#\propelic_test\exercises\exercises\obj\Debug\exercises.exe
+I:\PROYECTOSC#\propelic_test\exercises\exercises\obj\Debug\exercises.pdb
